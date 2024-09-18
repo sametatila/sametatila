@@ -10,8 +10,9 @@ I am a passionate Software Developer with a diverse background in web developmen
 
 # 📊 GitHub Stats:
 <center>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sametatila&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sametatila&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sametatila&theme=dark&hide_border=false)
 </center>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sametatila&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sametatila&icon=0&color=0)](https://visitcount.itsvg.in)
