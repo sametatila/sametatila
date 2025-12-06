@@ -1,12 +1,72 @@
-# 💫 About Me:
-I am a passionate Software Developer with a diverse background in web development, software engineering and test management. I started my career in 2019 as a Test Center Administrator where I was responsible for overseeing large-scale TOEFL testing operations across multiple countries. This role allowed me to hone my skills in managing complex systems and driving operational efficiency.<br><br>In 2021, I switched to software development and leveraged my technical knowledge to design and build applications that improve organizations' productivity and workflow. I am proficient in Python, Flask, Flutter, MySQL, and web technologies and have a proven track record of delivering high-quality software solutions that enhance the user experience.<br><br>My experience includes developing custom applications for businesses, optimizing websites for e-commerce, and building bots for online platforms. I am dedicated to continuous learning and am always looking for new challenges to advance my expertise in software development.<br><br>🚀 Recently I have worked on projects based on Flask, Celery, RabbitMQ and Docker and I am working on improving myself in these areas<br>
+# Hi, I'm Samet 👋
 
+Software Developer with a background in educational technology and test management systems. Currently transitioning to Germany to pursue a degree in Applied Computer Science at TU Dortmund.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sametatila/)
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## About Me
+
+I've spent the past few years building software solutions in the EdTech space — from test result processing systems to mobile applications for field operations. While my applications run in production and serve real users, I've come to realize that a stronger foundation in computer science fundamentals would take my work to the next level.
+
+That's why I'm heading to TU Dortmund: to deepen my understanding of algorithms, data structures, and software engineering principles.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend & Data:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Mobile & Frontend:**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**DevOps & Tools:**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Currently Exploring:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+---
+
+## 📂 Projects
+
+Most of my recent work is in private repositories (enterprise EdTech systems), but here are some public ones:
+
+| Project | Description |
+|---------|-------------|
+| [Testing-Report-System](https://github.com/sametatila/Testing-Report-System) | Desktop app for processing and visualizing test results |
+| [BinanceSpotBot](https://github.com/sametatila/BinanceSpotBot) | Trading bot with GUI for Binance spot market |
+| [Mail-Migration-Tool](https://github.com/sametatila/Mail-Migration-from-Yandex-to-Gmail) | Automated email migration between providers |
+| [Bulk-Email-Sender](https://github.com/sametatila/Bulk-Email-Sender) | Mass email tool with template support |
+
+---
+
+## 🌍 Languages
+
+🇹🇷 Turkish (Native) • 🇬🇧 English (B2) • 🇩🇪 German (Learning)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sametatila/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sametatila@gmail.com)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sametatila&theme=dark&hide_border=false)
@@ -15,5 +75,3 @@ I am a passionate Software Developer with a diverse background in web developmen
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sametatila&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
