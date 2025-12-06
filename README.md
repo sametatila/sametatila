@@ -58,7 +58,7 @@ Most of my recent work is in private repositories (enterprise EdTech systems), b
 
 ## 🌍 Languages
 
-🇹🇷 Turkish (Native) • :en: English (B2) • 🇩🇪 German (Learning)
+🇹🇷 Turkish (Native) • 🇺🇸 English (B1) • 🇩🇪 German B1
 
 ---
 
