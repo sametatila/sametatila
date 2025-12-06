@@ -66,7 +66,6 @@ Most of my recent work is in private repositories (enterprise EdTech systems), b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sametatila&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sametatila&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ---
 
 ## 📫 Let's Connect
